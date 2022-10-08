@@ -2,7 +2,7 @@
 
 ### Resnet-18 is implemented on MNIST dataset.
 
-##Results-
+## Results-
 
 ![accuracy vs epoch plot](https://user-images.githubusercontent.com/96726614/194702450-66328edc-8d82-47e7-bee6-1b2397719d62.png)
 
